@@ -11,3 +11,4 @@ https://www.figma.com/design/IpiRCsDJjQI1I2wwgU4Eo9/Power-Pay-App-(Community)?no
 
 set 8 
 https://www.figma.com/design/W0ssInrZnLJxHmUn5eJmZt/Flight-Ticket-Booking-App-UI-Kit-(Community)?node-id=0-1&t=GuUWUTgHj5tjjmhY-1 - flight booking
+https://www.figma.com/design/1dBCC3arFgbx11DhUP12pT/Movie-Mobile-App-UI-Design-(Community)?node-id=3-3&t=GNM8MWgpcRRxO47o-1 - watching movie 
